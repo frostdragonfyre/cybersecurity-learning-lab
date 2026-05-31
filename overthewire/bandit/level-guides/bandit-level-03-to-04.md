@@ -382,7 +382,7 @@ $ cat ...Hiding-From-You
 
 This output shows the central lesson. A normal `ls` does not show the hidden file, but `ls -la` reveals it.
 
-### Screenshot
+### Screenshots
 
 <img width="669" height="239" alt="image" src="https://github.com/user-attachments/assets/1633efaf-010b-4712-8760-ed8899b57c5e" />
 
