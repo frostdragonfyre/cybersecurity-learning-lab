@@ -378,7 +378,7 @@ This output shows the central lesson. `strings` extracts readable text from nois
 
 <img width="817" height="323" alt="image" src="https://github.com/user-attachments/assets/df8cd617-9eaf-4ffb-86fa-aa306e1b2da8" />
 
-<img width="867" height="323" alt="image" src="https://github.com/user-attachments/assets/9fdb26b7-e486-4ebe-a846-0e49c4dddd4a" />
+<img width="867" height="323" alt="image" src="https://github.com/user-attachments/assets/b77b00b3-6cbf-4e92-9cc9-7f87b2510e97" />
 
 ## 10. What Is Really Happening
 
