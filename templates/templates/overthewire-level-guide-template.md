@@ -198,7 +198,31 @@ Explain how to verify the concept.
 
 Response:
 
-## 9. What Is Really Happening
+## 9. Command Output and Screenshots
+
+Use this section to include terminal output, screenshots, or other evidence that helps explain the level. Avoid including active passwords, credentials, tokens, private keys, or restricted answer material. Redact sensitive material before committing screenshots or output.
+
+### Relevant Command Output
+
+```text
+Paste relevant command output here.
+```
+
+Explain what the output shows and why it matters.
+
+Response:
+
+### Screenshot
+
+```markdown
+![Screenshot description](../../assets/screenshots/example-screenshot.png)
+```
+
+Explain what the screenshot shows, what the learner should notice, and whether any sensitive information has been redacted.
+
+Response:
+
+## 10. What Is Really Happening
 
 Explain the underlying system behavior. This is where the guide should become valuable beyond the immediate level.
 
@@ -206,7 +230,7 @@ For example, explain how the shell parses input, how Linux represents files and 
 
 Response:
 
-## 10. Common Mistakes
+## 11. Common Mistakes
 
 Document mistakes that learners commonly make and explain how to correct the underlying misunderstanding.
 
@@ -225,19 +249,19 @@ Document mistakes that learners commonly make and explain how to correct the und
   </tr>
 </table>
 
-## 11. Defensive or Administrative Takeaway
+## 12. Defensive or Administrative Takeaway
 
 Explain what this level teaches from a defensive, administrative, or real-world operations perspective. Even beginner levels can connect to secure administration, auditability, least privilege, credential hygiene, logging, or user training.
 
 Response:
 
-## 12. Real-World Connection
+## 13. Real-World Connection
 
 Explain where this concept appears outside the wargame. Connect the lesson to Linux servers, cloud instances, web applications, enterprise administration, incident response, software development, identity systems, or secure operations.
 
 Response:
 
-## 13. Reflection Questions
+## 14. Reflection Questions
 
 Use these questions to test understanding and support teaching.
 
@@ -268,7 +292,7 @@ Use these questions to test understanding and support teaching.
   </tr>
 </table>
 
-## 14. References
+## 15. References
 
 Add references that support learning without bypassing the exercise.
 
