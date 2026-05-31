@@ -410,7 +410,7 @@ $ cat ./-file07
 
 This output shows the central lesson. Instead of guessing, you use `file` to identify which file is human-readable, then you read that file with `cat`.
 
-### Screenshot
+### Screenshots
 
 <img width="669" height="310" alt="image" src="https://github.com/user-attachments/assets/2c5ae143-b3c3-4d1d-9151-b916b4927865" />
 
