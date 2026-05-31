@@ -347,10 +347,6 @@ This output shows the central lesson. A bare dash is ambiguous to the command, w
 
 <img width="867" height="281" alt="image" src="https://github.com/user-attachments/assets/d2fee5c2-c7a7-4ce7-9def-981775c20dd3" />
 
-
-
-Before committing a screenshot, redact the password and any visible credential material.
-
 ## 10. What Is Really Happening
 
 In this level, you are learning that a filename and a command argument are not always interpreted the same way.
