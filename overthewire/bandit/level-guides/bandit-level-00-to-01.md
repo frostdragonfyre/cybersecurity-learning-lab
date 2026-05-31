@@ -322,7 +322,7 @@ $ cat readme
 
 This output shows the reasoning path without exposing the active credential. It confirms the current directory, the presence of the target file, and the fact that the file contains the next password.
 
-### Screenshot
+### Screenshots
 
 <img width="867" height="281" alt="image" src="https://github.com/user-attachments/assets/85b19268-2d35-4748-9b27-5f8990e118f6" />
 
