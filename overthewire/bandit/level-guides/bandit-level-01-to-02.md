@@ -341,7 +341,7 @@ $ cat ./-
 
 This output shows the central lesson. A bare dash is ambiguous to the command, while `./-` explicitly identifies a file in the current directory.
 
-### Screenshot
+### Screenshots
 
 <img width="867" height="276" alt="image" src="https://github.com/user-attachments/assets/ec683759-3ea8-42a7-a004-ff347c47ba82" />
 
