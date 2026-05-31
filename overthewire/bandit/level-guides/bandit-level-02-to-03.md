@@ -420,7 +420,7 @@ $ cat ./--spaces\ in\ this\ filename--
 
 This output shows the central lesson. Without quoting or escaping, spaces split the filename. With quoting, the spaces are preserved, but the filename still begins with `--`. Using an explicit relative path or the option terminator handles both issues.
 
-### Screenshot
+### Screenshots
 
 <img width="867" height="239" alt="image" src="https://github.com/user-attachments/assets/1a66dcbe-fa9c-4bab-b1f8-4819c57c568d" />
 
