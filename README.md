@@ -12,6 +12,8 @@ The Bandit guides are available now. The other directories describe areas being 
 
 Explore my other teaching in [accounting, FinOps, AI, and cloud technology](https://mycalbrown.com/), or visit my [Pluralsight author page](https://www.pluralsight.com/authors/mycal-brown).
 
+For the broader learning map, including the new FinOps exercises, visit [my GitHub profile](https://github.com/frostdragonfyre).
+
 ## Purpose
 
 This repository documents hands-on cybersecurity learning through CTF practice, Linux command-line exercises, OverTheWire teaching notes, and defensive lessons drawn from offensive security labs.
